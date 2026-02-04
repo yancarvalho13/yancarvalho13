@@ -3,9 +3,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yan-carvalho-b166a9218/)
 
-[![yancarvalho13 GitHub stats](https://github-readme-stats.vercel.app/api?username=yancarvalho13&show_icons=true&theme=radical)](https://github.com/yancarvalho13?tab=repositories)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yancarvalho13&layout=compact)](https://github.com/yancarvalho13?tab=repositories)
-
 ## Tecnologias que eu uso
 
 <div style="display: inline_block"><br/>
