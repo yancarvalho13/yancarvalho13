@@ -1,27 +1,24 @@
+# Yan Carvalho
 
-### Olá! Eu sou Yan Carvalho 🙋🏽‍♂️
+**Software Engineer | Low-Level Development | Computer Vision | Machine Learning**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yan-carvalho-b166a9218/)
+I build software that connects hardware, backend systems, and machine learning models. My main languages are **C++, C#, and Python**.
 
-## Tecnologias que eu uso
+## What I do
 
-<div style="display: inline_block"><br/>
-  <img align="center" alt="dotnet" 
-       src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img align="center" alt="csharp" 
-       src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img align="center" alt="java" 
-       src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img align="center" alt="spring" 
-       src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img align="center" alt="cplusplus" 
-       src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img align="center" alt="docker" 
-       src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</div><br/>
+I develop computer vision and document-processing pipelines, from dataset curation and model training to inference optimization and production integration. I work with YOLO and ConvNeXt for document detection, segmentation, and vehicle-image fraud detection.
 
+I also build .NET APIs and SDKs for biometric devices, including low-level interoperability between native C/C++ libraries, C#, and Windows APIs for high-volume government systems.
 
-Graduando em Engenharia de Software pela Universidade Católica do Salvador.<br/>
-Apaixonado por backend, algoritmos e hardware.
+## Stack
 
+- **Languages:** C++, C#, Python, Java, SQL.
+- **ML & Computer Vision:** PyTorch, OpenCV, YOLO, ConvNeXt, OCR, SAHI.
+- **Backend & Systems:** .NET, ASP.NET Core, Spring Boot, REST APIs, WebSockets, native interoperability.
+- **Infrastructure:** Docker, Kubernetes, NGINX, PostgreSQL.
 
+## Education
+
+Studying **Software Engineering at UCSAL**.
+
+[LinkedIn](https://www.linkedin.com/in/yancarvalho13/) · [Email](mailto:yansilva303@gmail.com)
